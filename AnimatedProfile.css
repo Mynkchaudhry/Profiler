@@ -29,6 +29,7 @@
 }
 
 body {
+    background-image: linear-gradient(to right, hsl(305, 78%, 48%), hsl(335, 81%, 48%));
     font-family: var(--body-font);
     background-color: var(--body-color);
 }
