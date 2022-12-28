@@ -1,3 +1,3 @@
 # Profiler
-![Profiler](./Screenshot 2022-12-17 234239.png)
+![Profile](./Screenshot 2022-12-17 234239.png)
 
